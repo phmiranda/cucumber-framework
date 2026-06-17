@@ -1,5 +1,7 @@
+# IDE's config directories and files
 .idea/
-
+.vscode/
+*.iml
 
 # Compiled class file
 *.class
